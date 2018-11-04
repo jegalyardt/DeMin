@@ -1,0 +1,25 @@
+
+Here are the putative global minima for the ICEO1 test functions.
+For Langerman's functions, I could only retrieve the value to reach
+specified by the contest. If someone has the global minimum, 
+please let me know at neum@cma.univie.ac.at
+
+Shekel's Fox Holes (5 Dimensions)
+fmin = -10.40395206000838
+
+Shekel's Fox Holes (10 Dimensions)
+fmin = -10.20787684027058
+
+Michalewicz's Function (5 Dimensions)
+fmin = -4.68765817908815
+
+Michalewicz's Function (10 Dimensions)
+fmin = -9.66015167547059
+
+Langerman's Function (5 Dimensions)
+Value to reach in the ICEO contest: -1.4
+
+Langerman's Function (10 Dimensions)
+Value to reach in the ICEO contest: -1.4
+
+

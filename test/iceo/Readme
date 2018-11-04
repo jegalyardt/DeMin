@@ -1,0 +1,15 @@
+% RealSet.tar		original tar file
+% shekel.h		original data for problem 3
+% langerman.h		original data for problem 5
+% probl*.c		original C-code for problems 1-5
+%
+% valuestoreach         values to reach
+% iceo.results		some results
+%
+% iceo.m                test functions from the First International 
+%                       Contest on Evolutionary Optimization
+% iceo3d.m              data for problem 3
+% iceo5d.m              data for problem 5
+% 
+% iceo1, iceo2		c-files for the two test sets
+% iceo.uu, iceo.tar.gz	combined iceo[12]
